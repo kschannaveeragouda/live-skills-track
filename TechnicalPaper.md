@@ -1,4 +1,4 @@
-## 🧠 SOLID Principles in Java
+##  SOLID Principles in Java
 
 ### 🔹 S - Single Responsibility Principle (SRP)
 A class should have only one reason to change.
@@ -91,6 +91,6 @@ class DataAccess {
 
 ---
 
-## 📚 References
+## References
 - [DigitalOcean SOLID Guide](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 - [YouTube Playlist - SOLID](https://www.youtube.com/playlist?list=PL6n9fhu94yhXjG1w2blMXUzyDrZ_eyOme)
